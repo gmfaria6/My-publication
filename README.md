@@ -10,7 +10,7 @@ This repository contains all the codes used to implement the articles published 
 
 ## Deep reinforcement learning for joint functional split and network function placement in vRAN
 
-### Paper products
+### Paper
 
 Publication link: [https://ieeexplore.ieee.org/document/10001282](https://ieeexplore.ieee.org/document/10001282)
 
@@ -35,18 +35,72 @@ Github repository: [github.com/LABORA-INF-UFG/paper-GLCK-2021](github.com/LABORA
 
 ## A genetic algorithm for efficiently solving the virtualized radio access network placement problem
 
-This section contains the implementation of a genetic algorithm designed to efficiently solve the placement problem in virtualized Radio Access Networks. The provided code helps in understanding the algorithm's workings and its application in vRAN contexts.
+### Paper
 
-[Citation information for the relevant article]
+Publication link: [https://ieeexplore.ieee.org/abstract/document/10279334](https://ieeexplore.ieee.org/abstract/document/10279334)
+
+Github repository: [github.com/LABORA-INF-UFG/paper-GVAK-2022](github.com/LABORA-INF-UFG/paper-GVAK-2022)
+
+### How to cite
+
+```
+@INPROCEEDINGS{10279334,
+  author={Almeida, Gabriel M. and Camilo-Junior, Celso and Correa, Sand and Cardoso, Kleber},
+  booktitle={ICC 2023 - IEEE International Conference on Communications}, 
+  title={A Genetic Algorithm for Efficiently Solving the Virtualized Radio Access Network Placement Problem}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1874-1879},
+  keywords={Base stations;Protocols;Scalability;Metaheuristics;Machine learning;Proposals;Joining processes;vRAN;functional splits;placement of virtual network functions (VNFs);genetic algorithm;metaheuristics},
+  doi={10.1109/ICC45041.2023.10279334}}
+
+```
 
 ## Optimal joint functional split and network function placement in vRAN with splittable flows
 
-Here, you will find the resources and codes used for achieving optimal joint functional split and network function placement in vRAN scenarios with splittable flows. This section details the methodologies and results from the corresponding research study.
+### Paper
+
+Publication link: [https://ieeexplore.ieee.org/document/9769698](https://ieeexplore.ieee.org/document/9769698)
+
+Github repository: [github.com/LABORA-INF-UFG/paper-GCSK-2022](github.com/LABORA-INF-UFG/paper-GCSK-2022)
+
+### How to cite
+
+```
+@ARTICLE{9769698,
+  author={Almeida, Gabriel M. and Pinto, Leizer de L. and Both, Cristiano B. and Cardoso, Kleber V.},
+  journal={IEEE Wireless Communications Letters}, 
+  title={Optimal Joint Functional Split and Network Function Placement in Virtualized RAN With Splittable Flows}, 
+  year={2022},
+  volume={11},
+  number={8},
+  pages={1684-1688},
+  keywords={Protocols;Throughput;Standards;Bit rate;Virtualization;Resource management;Radio access networks;vRAN;functional split;placement;flow split},
+  doi={10.1109/LWC.2022.3172878}}
+```
 
 [Citation information for the relevant article]
 
 ## RIC-O: Efficient placement of a disaggregated and distributed RAN Intelligent Controller with dynamic clustering of radio nodes
 
-This part of the repository is dedicated to the RIC-O project, which focuses on the efficient placement of a disaggregated and distributed RAN Intelligent Controller. It includes dynamic clustering of radio nodes and other related functionalities.
+### Paper
 
-[Citation information for the relevant article]
+Publication link: [https://ieeexplore.ieee.org/abstract/document/10329927](https://ieeexplore.ieee.org/abstract/document/10329927)
+
+Github repository: [github.com/LABORA-INF-UFG/paper-GGAMECK-2023](github.com/LABORA-INF-UFG/paper-GGAMECK-2023)
+
+### How to cite
+
+```
+@ARTICLE{10329927,
+  author={Almeida, Gabriel Matheus and Bruno, Gustavo Zanatta and Huff, Alexandre and Hiltunen, Matti and Duarte, Elias Procopio and Both, Cristiano Bonato and Cardoso, Kleber Vieira},
+  journal={IEEE Journal on Selected Areas in Communications}, 
+  title={RIC-O: Efficient Placement of a Disaggregated and Distributed RAN Intelligent Controller With Dynamic Clustering of Radio Nodes}, 
+  year={2024},
+  volume={42},
+  number={2},
+  pages={446-459},
+  keywords={Cloud computing;Technological innovation;Radio access networks;Computer architecture;Task analysis;Proposals;Optimization;RAN intelligent controller;O-RAN;near-RT RIC;placement;disaggregation},
+  doi={10.1109/JSAC.2023.3336159}}
+```
