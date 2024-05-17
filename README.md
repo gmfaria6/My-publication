@@ -14,7 +14,7 @@ This repository contains all the codes used to implement the articles published 
 
 Publication link: [https://ieeexplore.ieee.org/document/10001282](https://ieeexplore.ieee.org/document/10001282)
 
-Github repository: [github.com/LABORA-INF-UFG/paper-GLCK-2021](github.com/LABORA-INF-UFG/paper-GLCK-2021)
+Github repository: [https://github.com/LABORA-INF-UFG/paper-GLCK-2021](https://github.com/LABORA-INF-UFG/paper-GLCK-2021)
 
 ### How to cite
 
@@ -39,7 +39,7 @@ Github repository: [github.com/LABORA-INF-UFG/paper-GLCK-2021](github.com/LABORA
 
 Publication link: [https://ieeexplore.ieee.org/abstract/document/10279334](https://ieeexplore.ieee.org/abstract/document/10279334)
 
-Github repository: [github.com/LABORA-INF-UFG/paper-GVAK-2022](github.com/LABORA-INF-UFG/paper-GVAK-2022)
+Github repository: [https://github.com/LABORA-INF-UFG/paper-GVAK-2022](https://github.com/LABORA-INF-UFG/paper-GVAK-2022)
 
 ### How to cite
 
@@ -63,7 +63,7 @@ Github repository: [github.com/LABORA-INF-UFG/paper-GVAK-2022](github.com/LABORA
 
 Publication link: [https://ieeexplore.ieee.org/document/9769698](https://ieeexplore.ieee.org/document/9769698)
 
-Github repository: [github.com/LABORA-INF-UFG/paper-GCSK-2022](github.com/LABORA-INF-UFG/paper-GCSK-2022)
+Github repository: [https://github.com/LABORA-INF-UFG/paper-GCSK-2022](https://github.com/LABORA-INF-UFG/paper-GCSK-2022)
 
 ### How to cite
 
@@ -88,7 +88,7 @@ Github repository: [github.com/LABORA-INF-UFG/paper-GCSK-2022](github.com/LABORA
 
 Publication link: [https://ieeexplore.ieee.org/abstract/document/10329927](https://ieeexplore.ieee.org/abstract/document/10329927)
 
-Github repository: [github.com/LABORA-INF-UFG/paper-GGAMECK-2023](github.com/LABORA-INF-UFG/paper-GGAMECK-2023)
+Github repository: [https://github.com/LABORA-INF-UFG/paper-GGAMECK-2023](https://github.com/LABORA-INF-UFG/paper-GGAMECK-2023)
 
 ### How to cite
 
