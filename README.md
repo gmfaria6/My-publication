@@ -1,4 +1,4 @@
-# Deep reinforcement learning for joint functional split and network function placement in vRAN
+# My Master's research and papers
 
 This repository contains all the codes used to implement the articles published during my master's degree. All artifacts are publicly available for use, along with the citation for each article.
 
