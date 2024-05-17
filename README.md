@@ -13,11 +13,12 @@ This repository contains all the codes used to implement the articles published 
 ### Paper products
 
 Publication link: [https://ieeexplore.ieee.org/document/10001282](https://ieeexplore.ieee.org/document/10001282)
+
 Github repository: [github.com/LABORA-INF-UFG/paper-GLCK-2021](github.com/LABORA-INF-UFG/paper-GLCK-2021)
 
 ### How to cite
 
-'''
+```
 @INPROCEEDINGS{10001282,
   author={Almeida, Gabriel Matheus and Lopes, Victor H. and Klautau, Aldebaro and Cardoso, Kleber V.},
   booktitle={GLOBECOM 2022 - 2022 IEEE Global Communications Conference}, 
@@ -28,8 +29,7 @@ Github repository: [github.com/LABORA-INF-UFG/paper-GLCK-2021](github.com/LABORA
   pages={1229-1234},
   keywords={Deep learning;Computational modeling;Reinforcement learning;Standardization;Global communication;Optimization;Next generation networking;vRAN;functional split;placement of virtual network functions (VNFs);deep reinforcement learning;learning to optimize},
   doi={10.1109/GLOBECOM48099.2022.10001282}}
-
-'''
+  ```
 
 [Citation information for the relevant article]
 
